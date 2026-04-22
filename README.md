@@ -1,107 +1,102 @@
-![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
-
 <h1 align="center">Hi 👋, I'm Purushothaman M</h1>
-<h3 align="center">Aspiring Software Engineer with strong analytical abilities and a deep understanding of Data Structures and Algorithms. Passionate about building scalable web applications using Node.js, Express.js, and MySQL.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">
+Aspiring Web Developer focused on building scalable and efficient applications using modern technologies.
+Strong foundation in Data Structures and Algorithms with hands-on experience in full-stack development.
+</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mpurushoth&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+---
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mpurushoth" />
-  </a> 
-</p>
+## 🚀 About Me
 
-- 🔭 I’m currently working on **ZoomOps AI (AI Meeting Task Automation System)**  
-
-- 🌱 I’m currently learning **Advanced React, Docker, System Design**  
-
+- 🔭 Currently working on **ZoomOps AI (AI-powered Meeting Automation System)**  
+- 🌱 Learning **Advanced React, Docker, and System Design**  
 - 💬 Ask me about **Java, DSA, Node.js, Express.js, MySQL**  
-
-- 📫 How to reach me **mpurushoth475@gmail.com**  
-
-- 📄 Know about my experiences *https://drive.google.com/file/d/12Bfhp7NPWAkjvXt8NNCg7qh_IUX84-UU/view*  
+- 📫 Reach me at **mpurushoth475@gmail.com**  
+- 📄 [View Resume](https://drive.google.com/file/d/12Bfhp7NPWAkjvXt8NNCg7qh_IUX84-UU/view)
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect with Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/purushothaman-m-5748292a1" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<a href="https://www.linkedin.com/in/purushothaman-m-5748292a1" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
 
-<a href="https://www.codechef.com/users/purushoth13" target="blank">
-  <img align="center"
-       src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
-       alt="codechef"
-       height="30"
-       width="40" />
+<a href="https://www.codechef.com/users/purushoth13" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/>
 </a>
 
-<a href="https://leetcode.com/u/Purushoth13/" target="blank">
-  <img align="center"
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-       alt="leetcode"
-       height="30"
-       width="40" />
+<a href="https://leetcode.com/u/Purushoth13/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
 </a>
 </p>
 
 ---
 
-<h3 align="left">👨‍💻 Experience:</h3>
+## 💼 Experience
 
-- **Frontend Development Intern – MitBots (Aug 2025 – Oct 2025)**  
-  - Built React applications like Task Manager & AI Chatbot  
-  - Focused on reusable UI components  
+**Frontend Development Intern – MitBots**  
+📅 Aug 2025 – Oct 2025  
 
----
-
-<h3 align="left">🚀 Projects:</h3>
-
-- **ZoomOps AI**  
-  - Extracts tasks from meetings, generates workflows, tracks progress  
-
-- **Army Pension Eligibility Tracker**  
-  - Automates pension eligibility based on service rules  
-
-- **Land Litigation Management System**  
-  - Manages land dispute records and tracking  
+- Developed responsive web applications using **React.js**  
+- Built projects such as **Task Manager** and **AI Chatbot**  
+- Focused on creating **reusable and scalable UI components**
 
 ---
 
-<h3 align="left">🎓 Education:</h3>
+## 🚀 Projects
 
-- **Easwari Engineering College (2023 – Present)**  
-  B.E CSE | CGPA: 8.9  
+### 🔹 ZoomOps AI
+- AI-powered system to **analyze meetings, extract tasks, and generate workflows**
+- Improves productivity through automated action tracking  
 
-- **Vailankanni Matric Hr Sec School (HSC)** – 90.2%  
+### 🔹 Army Pension Eligibility Tracker
+- Automates eligibility verification based on **service rules and criteria**
+- Reduces manual effort and improves accuracy  
 
-- **Vailankanni Matric Hr Sec School (SSLC)** – 99%  
+### 🔹 Land Litigation Management System
+- Platform to **manage land disputes and track legal case progress**
+- Enhances transparency and organization in legal workflows  
 
 ---
 
-<h3 align="left">🏆 Achievements:</h3>
+## 🎓 Education
+
+**B.E. Computer Science and Engineering**  
+Easwari Engineering College (2023 – Present)  
+📊 CGPA: **8.9 / 10**
+
+**Higher Secondary (HSC)**  
+Vailankanni Matric Hr Sec School  
+📊 Score: **90.2%**
+
+**SSLC**  
+Vailankanni Matric Hr Sec School  
+📊 Score: **99%**
+
+---
+
+## 🏆 Achievements
 
 - 🥈 2nd Runner-Up – Hack2Skill Codeholics Hackathon  
 - 🚀 ET Gen AI Hackathon – Phase 1 Shortlisted  
-- 💡 Solved 550+ problems on LeetCode  
-- 🔥 CodeChef Rating: 1443  
+- 💡 Solved **550+ problems** on LeetCode  
+- 🔥 CodeChef Rating: **1443**
 
 ---
 
-<h3 align="left">🤝 Leadership:</h3>
+## 🤝 Leadership
 
-- **Youth Red Cross – Wing Head**  
-  - Organized blood donation drives  
-  - Led student volunteer initiatives  
+**Youth Red Cross – Wing Head**
+
+- Organized **blood donation drives**
+- Led **student volunteer initiatives and events**
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ Languages and Tools
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
@@ -113,6 +108,8 @@
 </p>
 
 ---
+
+## 📊 GitHub Stats
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mpurushoth&show_icons=true&layout=compact" />
