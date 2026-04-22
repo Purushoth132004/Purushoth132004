@@ -19,20 +19,23 @@ Strong foundation in Data Structures and Algorithms with hands-on experience in 
 
 ## 🌐 Connect with Me
 
-<p align="left">
+## 🌐 Connect with Me
+
+<p align="left" style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
+
 <a href="https://www.linkedin.com/in/purushothaman-m-5748292a1" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
 
 <a href="https://www.codechef.com/users/purushoth13" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/>
 </a>
 
 <a href="https://leetcode.com/u/Purushoth13/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
 </a>
-</p>
 
+</p>
 ---
 
 ## 💼 Experience
