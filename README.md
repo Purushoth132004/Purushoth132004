@@ -17,9 +17,7 @@ Strong foundation in Data Structures and Algorithms with hands-on experience in 
 
 ---
 
-## 🌐 Connect with Me
 
-## 🌐 Connect with Me
 
 <p align="left" style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
 
